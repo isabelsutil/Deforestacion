@@ -2,9 +2,9 @@
 
 La deforestacion es un proceso en el cual se destruye la vegetacion de un bosque. Puede haber numerosas causas para que esto ocurra:
 
-    - Naturales: erupciones volcanicas, inundaciones, indencios provocados por causas naturales.
+- Naturales: erupciones volcanicas, inundaciones, indencios provocados por causas naturales.
 
-    - Causas humanas: incendios provocados, uso de terrenos para la edificacion, uso de los materiales (madera, plantas...), ect..
+- Causas humanas: incendios provocados, uso de terrenos para la edificacion, uso de los materiales (madera, plantas...), ect..
 
 
 Actualmente nos encontramos en una situacion mundialmente donde, debido a la deforestacion, tenemos: suelos aridos, perdida e bsques, aumenta del cambio climatico, extincon de una gran cantidad de especies, etc..
